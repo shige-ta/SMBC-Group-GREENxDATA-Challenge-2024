@@ -1,6 +1,6 @@
 # SMBC Group GREEN×DATA Challenge 2024
 
-本リポジトリは、[SIGNATE上で開催された「SMBC Group GREEN×DATA Challenge 2024」](https://signate.jp/)での取り組みをまとめたポートフォリオです。
+本リポジトリは、[SIGNATE上で開催された「SMBC Group GREEN×DATA Challenge 2024」](https://signate.jp/competitions/1491)での取り組みをまとめたポートフォリオです。
 
 - **最終順位**: 800人中66位 (上位約8.25%)  
 - **モデル**: XGBoostを用いた回帰モデル  
